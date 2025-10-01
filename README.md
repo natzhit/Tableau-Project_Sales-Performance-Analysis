@@ -67,6 +67,8 @@ Combined the charts into two dashboards with filters and navigation icons, enabl
 
 ![Sales Performance Dashboard](screenshots/dashboard1.png)
 
+![Sales Performance Dashboard](screenshots/dashboard-filter.png)
+
 ![Salespeople Performance Dashboard](screenshots/dashboard2.png)
 
 ## 7. Inspiration
