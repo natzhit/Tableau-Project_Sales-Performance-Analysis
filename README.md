@@ -65,4 +65,10 @@ Combined the charts into two dashboards with filters and navigation icons, enabl
 
 ## 6. Dashboard Previews
 
-![Sales Performance Dashboard]()
+![Sales Performance Dashboard](screenshots/dashboard1.png)
+
+![Salespeople Performance Dashboard](screenshots/dashboard2.png)
+
+## 7. Inspiration
+
+This project was inspired by [Baraa Khatib Salkini](linkedin.com/in/baraa-khatib-salkini-845b1b55) and his [Tableau Ultimate Full Course Tutorial on YouTube](https://youtu.be/K3pXnbniUcM?si=qtDyBE5MnNACMDpB).
