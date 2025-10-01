@@ -60,9 +60,10 @@ Combined the charts into two dashboards with filters and navigation icons, enabl
 
 ## 5. Tools Used
 
-- **Tableau Public:** for data visualization and dashboards
-- **MS Excel:** for dataset preparation
-
+- **Tableau Public:** data visualization, building and publishing dashboards
+- **MS Excel:** dataset preparation
+- **GitHub**: sharing the project 
+  
 ## 6. Dashboard Previews
 
 ![Sales Performance Dashboard](screenshots/dashboard1.png)
