@@ -2,7 +2,9 @@
 This project analyzes sales data from the AdventureWorks database, a sample dataset provided by Microsoft for SQL Server users. Adventure Works is a fictional bicycle and accessories company, and the dataset contains information on sales, products, regions, and salespeople. The subset used here covers sales data from 2017–2019.
 
 Dataset source: [AdvetureWorks Sample Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
+
 Tableau Public: [Dashboard](https://public.tableau.com/app/profile/nataliia.zhitkova/viz/SalesPerformance_17592693976490/SalesPerformance).
+
 ## 1. Project Requirements
 
 The goal of this project was to build 2 interactive Tableau dashboards to support stakeholders, including sales managers and executives, in analyzing sales and salespeople performance.
