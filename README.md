@@ -3,7 +3,7 @@ This project analyzes sales data from the AdventureWorks database, a sample data
 
 Dataset source: [AdvetureWorks Sample Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 
-Tableau Public: [Dashboard](https://public.tableau.com/app/profile/nataliia.zhitkova/viz/SalesPerformance_17592693976490/SalesPerformance).
+Tableau Public: [Sales Performance Analysis](https://public.tableau.com/app/profile/nataliia.zhitkova/viz/SalesPerformance_17592693976490/SalesPerformance).
 
 ## 1. Project Requirements
 
